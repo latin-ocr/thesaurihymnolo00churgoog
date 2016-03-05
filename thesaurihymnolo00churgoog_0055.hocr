@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./thesaurihymnolo00churgoog_0055.png"; bbox 0 0 3642 5550; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 580 1973 1190 2106">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 580 1973 1190 2106">
+     <span class='ocr_line' id='line_1_1' title="bbox 580 1973 1190 2106; baseline 0.003 -3"><span class='ocrx_word' id='word_1_1' title='bbox 580 1973 823 2104; x_wconf 75' lang='lat' dir='ltr'>PARS</span> <span class='ocrx_word' id='word_1_2' title='bbox 877 1973 1190 2106; x_wconf 84' lang='lat' dir='ltr'><strong>PRIOR.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 363 2246 1407 2380">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 363 2246 1407 2380">
+     <span class='ocr_line' id='line_1_2' title="bbox 363 2246 1407 2380; baseline -0.001 -30"><span class='ocrx_word' id='word_1_3' title='bbox 363 2248 559 2380; x_wconf 84' lang='lat' dir='ltr'><strong>Hymni</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 594 2247 929 2376; x_wconf 78' lang='lat' dir='ltr'>antiquissimi</span> <span class='ocrx_word' id='word_1_5' title='bbox 965 2247 1147 2349; x_wconf 79' lang='lat' dir='ltr'>saeculi</span> <span class='ocrx_word' id='word_1_6' title='bbox 1184 2246 1407 2349; x_wconf 88' lang='lat' dir='ltr'><strong>V.—XI.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 682 2577 1083 2891">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 682 2577 1083 2891">
+     <span class='ocr_line' id='line_1_3' title="bbox 828 2577 898 2659; baseline 0 -75"><span class='ocrx_word' id='word_1_7' title='bbox 828 2577 832 2584; x_wconf 84' lang='lat'>.</span> <span class='ocrx_word' id='word_1_8' title='bbox 869 2586 898 2659; x_wconf 87' lang='lat'>1.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 682 2757 1083 2891; baseline -0.012 -31"><span class='ocrx_word' id='word_1_9' title='bbox 682 2757 767 2860; x_wconf 86' lang='lat' dir='ltr'>De</span> <span class='ocrx_word' id='word_1_10' title='bbox 803 2759 1083 2891; x_wconf 83' lang='lat' dir='ltr'><strong>Tempore.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1826 5550">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1826 5550">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1826 5550; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1826 5550; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
